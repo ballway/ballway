@@ -3,7 +3,7 @@
 
 ---
 
-![ballway's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballway&show_icons=true&count_private=true&theme=graywhite)
+![ballway's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballway&show_icons=true&count_private=true)
 
 ![ballway's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballway&layout=compact&count_private=true&exclude_repo=dev&theme=graywhite)
 
