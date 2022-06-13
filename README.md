@@ -8,11 +8,11 @@
 ![ballway's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballway&layout=compact&count_private=true&exclude_repo=dev&theme=graywhite)
 
 ---
-![](https://komarev.com/ghpvc/?username=ballway&color=brightgreen) 
-[<img src="https://img.shields.io/badge/Email-ballway%40csie.io-important">](mailto:ballway@csie.io)
 
+<a href="https://ballway.github.io/"><img src="https://komarev.com/ghpvc/?username=ballway&color=brightgreen&style=for-the-badge" alt="Profile Views" /></a>
+<a href="mailto:ballway@csie.io"><img src="https://img.shields.io/badge/Email-ballway%40csie.io-important/?style=for-the-badge&color=orange" alt="Mail To" ></a> 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ballway)
-
+  
 <!--
 **ballway/ballway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
