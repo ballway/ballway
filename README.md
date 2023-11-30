@@ -9,9 +9,10 @@
 
 ---
 
-<a href="mailto:ballway@csie.io"><img src="https://img.shields.io/badge/Email-ballway.w%40gmail.com-important/?style=for-the-badge&color=orange" alt="Mail To" ></a> 
 [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://ballway.medium.com/)
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ballway)
+
 <a href="https://ballway.github.io/"><img src="https://komarev.com/ghpvc/?username=ballway&color=brightgreen&style=for-the-badge" alt="Profile Views" /></a>
   
 <!--
